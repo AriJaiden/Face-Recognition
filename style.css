@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 80px;
+}
+.copy_right_footer{
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(255, 224, 242);
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    text-shadow: black;
+}
+.header_div{
+    color: rgb(221, 168, 168);
+    background-color: linen;
+}
+#camera, #snapshot{
+    border: 2px solid rgb(255, 255, 255);
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px whitesmoke;
+}
+.main_div{
+    background: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+body{
+    font-family: "Helvetica Heue", Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143px;
+    background-image: linear-gradient(to right bottom rgb(255, 203, 203), rgb(255, 162, 162), rgb(255, 148, 148), rgb(255, 132, 132), rgb(255, 116, 116),);
+}
+label{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 16px;
+    color: rgb(151, 82, 82);
+}
+.footer_div h4 {
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 18px rgb(255, 255, 245);
+    width:  500px;
+    height: 70px;
+    border-radius: 10px;
+    border: 2px solid rgb(234, 255, 254);
+    padding: 15px;
+    font-family: 'Crafty Girls', cursive;
+}
+.footer_div{
+    margin-left: 500px;
+    padding-bottom: 15px;
+}
